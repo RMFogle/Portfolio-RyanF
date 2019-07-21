@@ -78,6 +78,18 @@ body {
     margin-right: 25px;
 }
 
+/* icon links */
+
+.profile-links {
+    clear: both; 
+    margin-left: 450px; 
+}
+
+.icon-responsive {
+    float: left; 
+    size: 15%; 
+}
+
 
 /* Contact block */ 
 
