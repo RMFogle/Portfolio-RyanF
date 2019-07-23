@@ -78,12 +78,23 @@ body {
     margin-right: 25px;
 }
 
+/* Connect block */ 
+.connect {
+    float: left; 
+    padding: 40px;
+    width: 350px; 
+    background: black;
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid #dddddd;
+    margin-bottom: 20px; 
+}
+
 /* icon links */
 
 .profile-links {
-    clear: both; 
     margin-left: 450px; 
 }
+
 
 .icon-responsive {
     float: left; 
@@ -101,6 +112,7 @@ body {
 .email {
     color: white; 
 }
+
 
 /* Portfolio block */ 
 
