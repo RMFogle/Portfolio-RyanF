@@ -1,6 +1,6 @@
 # Portfolio-RyanF
 Portfolio for Ryan Fogle
 
-Work in progress... 
+https://rmfogle.github.io/Portfolio-RyanF/
 
 
